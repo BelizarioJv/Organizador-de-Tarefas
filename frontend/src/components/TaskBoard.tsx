@@ -5,7 +5,7 @@ import { useState, useEffect, useContext } from "react";
 import { tasksService } from "../services/api";
 import { TasksContext } from "../contexts/TaskContext";
 
-export const TaskBoard: React.FC = () => {
+export const TaskBoard = () => {
   const [tasks, setTasks] = useState<Task[]>([]);
   const { createTask, updateTask, deleteTask } = useContext(TasksContext);
 

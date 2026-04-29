@@ -8,9 +8,9 @@ function App() {
 
   return (
     <TasksContextProvider>
-      <div className="h-dvh  text-gray-100">
+      <div className="h-dvh text-gray-100 ">
         {/* Header */}
-        <div className="flex items-center justify-between px-8 py-6 border-b border-slate-700">
+        <div className="flex items-center justify-between px-8 py-6 border-b gap-3 border-slate-700">
           <h1 className="text-3xl font-bold tracking-wide">
             Organizador de Tarefas
           </h1>
