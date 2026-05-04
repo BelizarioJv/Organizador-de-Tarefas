@@ -9,16 +9,21 @@ Aplicação full-stack para gerenciamento de tarefas, desenvolvida com React + T
 🔜 Editar descrição da tarefa (em desenvolvimento)
 🌐 Integração com API REST
 🧪 Testes de API utilizando Postman
+
 🛠️ Tecnologias Utilizadas
+
 Frontend
 React
 TypeScript
-Vite (caso esteja usando)
+Vite
+
 Backend
 Node.js
 Express
+
 Banco de Dados
 MariaDB
+
 Ferramentas
 Postman
 Git e GitHub
